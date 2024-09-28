@@ -10,4 +10,8 @@ public class AppConfig {
     public BrandX getDevice(){
         return new BrandX();//return a bean
     }
+    @Bean
+    public DeviceProcessor getProcessor(){//d
+        return new BrandY();
+    }
 }
