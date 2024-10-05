@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd964b3-6711-41df-8d91-2a17ae5d32a9" name="Changes" comment="Call method from Dev class">
+    <list default="true" id="8fd964b3-6711-41df-8d91-2a17ae5d32a9" name="Changes" comment="constructor-arg in xml">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Development/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Development/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Development/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Development/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Development/Dev.java" afterDir="false" />
@@ -126,7 +127,7 @@
       <workItem from="1727502616197" duration="3604000" />
       <workItem from="1727506366239" duration="14789000" />
       <workItem from="1727535413165" duration="910000" />
-      <workItem from="1728106761484" duration="3730000" />
+      <workItem from="1728106761484" duration="6654000" />
     </task>
     <task id="LOCAL-00001" summary="Add Spring Framework Learning">
       <created>1727519305592</created>
@@ -156,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1728109465200</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="constructor-arg in xml">
+      <created>1728110736172</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728110736172</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +175,7 @@
     <MESSAGE value="Add Configuration Bean" />
     <MESSAGE value="Annotation Component Autowired Primary Qualifier" />
     <MESSAGE value="Call method from Dev class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Call method from Dev class" />
+    <MESSAGE value="constructor-arg in xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructor-arg in xml" />
   </component>
 </project>
