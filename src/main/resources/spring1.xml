@@ -3,9 +3,8 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-        <bean id="dev" class="org.example.Development.Dev">
-            <property name="laptop" ref="lap1" />
+        <bean id="dev" class="org.example.Development.Dev" autowire="byName">
         </bean>
-        <bean id="lap1" class="org.example.Development.Laptop">
-        </bean>
+        <bean id="comp" class="org.example.Development.Laptop" />
+        <bean id="desk1" class="org.example.Development.Desktop" />
 </beans>

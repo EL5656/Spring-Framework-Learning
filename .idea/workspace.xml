@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd964b3-6711-41df-8d91-2a17ae5d32a9" name="Changes" comment="constructor-arg in xml">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Development/Laptop.java" afterDir="false" />
+    <list default="true" id="8fd964b3-6711-41df-8d91-2a17ae5d32a9" name="Changes" comment="Referencing">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Development/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Development/Desktop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Development/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Development/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Development/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Development/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Development/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Development/Laptop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/spring1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring1.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,9 +21,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="spring-beans.schema" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -66,6 +68,9 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Acer\IdeaProjects\mylearning\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.Development" />
     </key>
   </component>
   <component name="RunManager" selected="Application.org.example.Development.App">
@@ -127,7 +132,7 @@
       <workItem from="1727502616197" duration="3604000" />
       <workItem from="1727506366239" duration="14789000" />
       <workItem from="1727535413165" duration="910000" />
-      <workItem from="1728106761484" duration="6654000" />
+      <workItem from="1728106761484" duration="9885000" />
     </task>
     <task id="LOCAL-00001" summary="Add Spring Framework Learning">
       <created>1727519305592</created>
@@ -164,11 +169,29 @@
       <option name="project" value="LOCAL" />
       <updated>1728110736172</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Referencing">
+      <created>1728113713822</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728113713822</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Spring Framework Learning" />
@@ -176,6 +199,7 @@
     <MESSAGE value="Annotation Component Autowired Primary Qualifier" />
     <MESSAGE value="Call method from Dev class" />
     <MESSAGE value="constructor-arg in xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="constructor-arg in xml" />
+    <MESSAGE value="Referencing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Referencing" />
   </component>
 </project>
